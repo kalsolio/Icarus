@@ -16,7 +16,7 @@
     "animate.css": "^3.7.0",
     "color": "^3.0.0",
     "easymde": "^2.4.0",
-    "marked": "^0.5.1",
+    "marked": "^0.7.0",
     "murmurhash": "^0.0.2",
     "normalize.css": "^8.0.0",
     "nprogress": "^0.2.0",
